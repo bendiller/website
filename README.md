@@ -7,3 +7,5 @@ Here's another [link](http://learnenough.com/git-tutorial).
 I bet that *this* makes things *bold* - nope! Looks like it's *italics*.
 
 Testing a new commit here - do I need 'git add'?
+
+Testing SSH authentication
