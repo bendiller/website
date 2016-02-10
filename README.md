@@ -11,3 +11,11 @@ Testing a new commit here - do I need 'git add'?
 Testing SSH authentication
 
 nth time's the charm
+
+------------------------------------------------------------------
+
+Now that's out of the way, let's check out some markdown:
+
+`does this look like code?`
+
+`<or does it have to use these as well?>`
